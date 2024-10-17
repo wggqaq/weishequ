@@ -1,0 +1,11 @@
+1.本代码运行需要两个编译器Hbuilder和微信开发者工具
+2.manifest.json中微信小程序设置个人的APPid
+3.common是接入他人服务器接口并且进行api封装集中管理
+4.components存放项目的各个组件
+5.givelike是实时刷新点赞后的数据的公用组件
+6.pages项目主界面
+7.static静态资源存储
+8.stroe是将登录信息存入本地JSON以免每次编译都得登录
+9.subpages各个页面的详情页
+10.tools是封装的api集中管理，时间格式
+11.pages.json整体项目的配置文件
