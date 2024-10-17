@@ -16,7 +16,7 @@ Vue.component("login", login);
 
 
 
-Vue.prototype.$BaseFileURL = 'http://ts.lagou.uieee.com/api/v2/files/'
+Vue.prototype.$BaseFileURL = 'http://124.14.67.11/api/v2/files/'
 
 
 // 引入 store 
